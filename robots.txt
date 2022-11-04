@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /delete-account
+
+Sitemap: https://globallove.online/sitemap.xml
